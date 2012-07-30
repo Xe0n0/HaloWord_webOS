@@ -1,0 +1,9 @@
+{
+  "id": "com.palm.haloword",
+  "version": "1.0.0",
+  "vendor": "HP",
+  "type": "web",
+  "main": "index.html",
+  "title": "Halo word",
+  "uiRevision": "2"
+}
